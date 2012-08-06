@@ -1,6 +1,6 @@
 # banklady
 
-The first german psp gem. Gisela Werler started history, we do to.
+The first german PSP library. Gisela Werler started history, we do too.
 
 # Gisela Werler
 
